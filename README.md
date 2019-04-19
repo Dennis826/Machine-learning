@@ -1,1 +1,1 @@
-# mit-dlaicourse
+# Python Code for Machine Learning.
